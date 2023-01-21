@@ -5,6 +5,6 @@
 Отменить один последний коммит в [репозитории](https://github.com/netology-code/git-homeworks-neuro).  
 В качестве результата пришлите проверяющему ссылку на ваш репозиторий на GitHub.
 
-## Результат выполнения задачи 2:
+## Результат выполнения задачи:
 
 [ссылка на текущий репозиторий на GitHub](https://github.com/Ekaterina-Isabel/git-homeworks-neuro)
